@@ -2,6 +2,8 @@
 <br>
 این روش به مدیریت بهتر چندین کانکشن استرینگ، افزایش انعطاف‌پذیری و بهبود عملکرد کمک می‌کند.
 <br>
+این روش به صورت Code First نوشته شده است که دیتابیس دیفالت را از DesignTimeDbContextFactory پیدا می کند.
+<br>
 * بعد از تنظیم کانکشن استرینگ
 <br>
 dotnet ef migrations add InitialCreate
