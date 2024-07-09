@@ -2,6 +2,7 @@
 این روش به مدیریت بهتر چندین کانکشن استرینگ، افزایش انعطاف‌پذیری و بهبود عملکرد کمک می‌کند.
 <br>
 * بعد از تنظیم کانکشن استرینگ
+<br>
 dotnet ef migrations add InitialCreate
 <br>
 dotnet ef database update
